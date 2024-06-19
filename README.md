@@ -11,4 +11,4 @@ _Meu nome é  Ana Júlia_
 
 _anajuliabentodasilva@gmail.com_
 
-![](https://tenor.com/view/gato-pato-cuticuti-lucas-cini-lobotomia-gif-3686397967126460950)
+<div class="tenor-gif-embed" data-postid="3686397967126460950" data-share-method="host" data-aspect-ratio="1.21359" data-width="100%"><a href="https://tenor.com/view/gato-pato-cuticuti-lucas-cini-lobotomia-gif-3686397967126460950">Gato Pato GIF</a>from <a href="https://tenor.com/search/gato-gifs">Gato GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
